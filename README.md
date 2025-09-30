@@ -159,7 +159,7 @@ The **original theme is not modified**, it stays untouched.
 
 ```css
 /* Hide the "Forgot Password" button */
-.skinHeader-withBackground:not(.semiTransparent) .headerForgotPasswordButton {
+.btnForgotPassword {
   display: none !important;
 }
 ```
