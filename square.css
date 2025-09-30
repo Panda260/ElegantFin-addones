@@ -1,0 +1,21 @@
+/* Posters and images with square corners */
+.cardScalable,
+.visualCardBox,
+.listItemImage,
+.listItemImageButton,
+.coveredImage,
+.cardImageContainer,
+.cardImage,
+.itemImage,
+.primaryImageWrapper img {
+    border-radius: 0 !important;
+}
+
+/* Cast/Person cards square instead of round */
+@supports (aspect-ratio: 1 / 1) {
+
+    #castCollapsible .cardScalable,
+    #guestCastContent .cardScalable {
+        border-radius: 0 !important;
+    }
+}

@@ -1,0 +1,10 @@
+/* Favorite Heart filled red */
+.material-icons.detailButton-icon.favorite.ratingbutton-icon-withrating {
+    color: red !important;
+    font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 48;
+}
+
+.material-icons.detailButton-icon.favorite.ratingbutton-icon-withrating::before {
+    content: "favorite";
+    color: red !important;
+}
