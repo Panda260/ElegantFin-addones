@@ -17,6 +17,17 @@ The **original theme is not modified**, it stays untouched.
 
 ---
 
+## 🚀 Usage
+
+1. First, make sure you import the **[original ElegantFin theme](https://github.com/lscambo13/ElegantFin?tab=readme-ov-file#-how-to-installsetup-this-theme)** in Jellyfin:
+   ```css
+   @import url("https://cdn.jsdelivr.net/gh/lscambo13/ElegantFin@main/Theme/ElegantFin-jellyfin-theme-build-latest-minified.css");
+   ```
+2. Import one or more of these snippets from the add-ons section below the main elegantfin import.
+3. Done 🎉 only the necessary parts are overridden.
+
+---
+
 ## 📦 Modules
 
 ### ❤️ Favorite Heart Override
@@ -156,17 +167,6 @@ The **original theme is not modified**, it stays untouched.
 </details>
 
 <br>
-
----
-
-## 🚀 Usage
-
-1. First, make sure you import the **[original ElegantFin theme](https://github.com/lscambo13/ElegantFin?tab=readme-ov-file#-how-to-installsetup-this-theme)** in Jellyfin:
-   ```css
-   @import url("https://cdn.jsdelivr.net/gh/lscambo13/ElegantFin@main/Theme/ElegantFin-jellyfin-theme-build-latest-minified.css");
-   ```
-2. Import one or more of these snippets from the add-ons section below the main elegantfin import.
-3. Done 🎉 only the necessary parts are overridden.
 
 ---
 
