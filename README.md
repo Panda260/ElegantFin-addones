@@ -36,7 +36,7 @@ The **original theme is not modified**, it stays untouched.
   <summary>🔗 Import from repo</summary>
 
 ```css
-@import url("https://raw.githubusercontent.com/Panda260/ElegantFin-addones/main/heart.css");
+@import url("https://panda260.github.io/ElegantFin-addones/heart.css");
 ```
 
 </details>
@@ -75,7 +75,7 @@ The **original theme is not modified**, it stays untouched.
   <summary>🔗 Import from repo</summary>
 
 ```css
-@import url("https://raw.githubusercontent.com/Panda260/ElegantFin-addones/main/square.css");
+@import url("https://panda260.github.io/ElegantFin-addones/square.css");
 ```
 
 </details>
@@ -125,7 +125,7 @@ The **original theme is not modified**, it stays untouched.
   <summary>🔗 Import from repo</summary>
 
 ```css
-@import url("https://raw.githubusercontent.com/Panda260/ElegantFin-addones/main/show-homebutton.css");
+@import url("https://panda260.github.io/ElegantFin-addones/show-homebutton.css");
 ```
 
 </details>
@@ -149,7 +149,7 @@ The **original theme is not modified**, it stays untouched.
     <summary>🔗 Import from repo</summary>
 
 ```css
-@import url("https://raw.githubusercontent.com/Panda260/ElegantFin-addones/main/hide-forgotpassword.css");
+@import url("https://panda260.github.io/ElegantFin-addones/hide-forgotpassword.css");
 ```
 
 </details>
