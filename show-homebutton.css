@@ -1,4 +1,4 @@
 /* Show the header home button again */
 .skinHeader-withBackground:not(.semiTransparent) .headerHomeButton {
-    display: initial !important;
+    display: initial;
 }
